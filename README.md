@@ -1,7 +1,7 @@
 
 
 
-- 👋 I am a political scientist and currently a Research Fellow at the Goethe University in Frankfurt am Main, Germany. [Check out my website for more information](https://sites.google.com/view/seraphinemaerz/about).
+- 👋 I am a Lecturer in Political Science (Research Methods) at the University of Melbourne. [Check out my website for more information](https://sites.google.com/view/seraphinemaerz/about).
 
 - 🔭 My research interests are the study of democracy, authoritarianism, political communication, Internet politics, Central
 Asia, qualitative and quantitative methods, and computational methods.
