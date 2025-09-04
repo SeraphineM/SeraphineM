@@ -1,7 +1,7 @@
 
 
 
-- 👋 I am a Lecturer in Political Science (Research Methods) at the University of Melbourne. [Check out my website for more information](https://seraphinem.github.io/)).
+- 👋 I am a Senior Lecturer in Political Science (Research Methods) at the University of Melbourne. [Check out my website for more information](https://seraphinem.github.io/)).
 
 - 🔭 My research interests are the study of democracy, authoritarianism, political communication, AI, and computational methods.
 
